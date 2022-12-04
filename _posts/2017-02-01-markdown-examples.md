@@ -1,11 +1,15 @@
 ---
-title:  "Markdown examples"
+title:  "Education"
 layout: post
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Central Washington University                                                                                           Fall 2020- Spring 2024
+Bachelor of Computer Science                                                                                           Ellensburg, Washington
+Washington State Opportunity Scholarship Scholar, Washington Apple Education Foundation Recipient
 
-Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis risus a elit.
+Yakima Valley College                                                                                                            Fall 2017-Spring 2019
+Associates in Arts                                                                                                                       Yakima, Washington
+
 
 
 ## Heading Two (h2)
