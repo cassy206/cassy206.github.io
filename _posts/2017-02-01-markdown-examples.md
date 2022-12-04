@@ -12,78 +12,29 @@ Associates in Arts                                                              
 
 
 
-## Heading Two (h2)
+## Projects (h2)
+BooksOfCass
+Calculating Program in Visual Studio 
+•	Usage of Functions outside of button events 
+•	Configured functions to button events
+•	Record of actions occurred written and printed to call making sure actions were not overwritten by next print sentence
+•	Applied financial business concepts  
+Marvel Madness
+Mobile Archive App written in HTML with CSS
+•	Integrated animations activated by user touch 
+•	Implemented links into words accessible to users 
+•	Developed a drop-down menu that allows the user direct access to separate sections 
+•	Made sure all aspects of application were accessible to users with no local files
+Rock Hounder
+Database Filtering Website built in Bubble.io
+•	Implemented Location Access to adjust Database to current user location
+•	Configured a filtering system to show all relevant information on current filter
+•	Applied multiple trials of user testing to release final product based on results 
 
-### Heading Three (h3)
-
-#### Heading Four (h4)
-
-##### Heading Five (h5)
-
-###### Heading Six (h6)
+## Skills and Interests (h2)
+Computer Skills: Java, HTML, CSS, Visual Basic, Assembly x86-64 bit, Python
+Projected Skills by Spring 2023: C++, Python, SQL
+Skills: Problem Solving, Public Speaking, Communication, Team Leader, User Interface
+Languages: English, Spanish
 
 
-## Blockquotes
-
-### Single line
-
-> My mom always said life was like a box of chocolates. You never know what you're gonna get.
-
-### Multiline
-
-> What do you get when you cross an insomniac, an unwilling agnostic and a dyslexic?
->
-> You get someone who stays up all night torturing himself mentally over the question of whether or not there's a dog.
->
-> – _Hal Incandenza_
-
-## Horizontal Rule
-
----
-
-## Table
-
-| Title 1          | Title 2          | Title 3         | Title 4         |
-|------------------|------------------|-----------------|-----------------|
-| First entry      | Second entry     | Third entry     | Fourth entry    |
-| Fifth entry      | Sixth entry      | Seventh entry   | Eight entry     |
-| Ninth entry      | Tenth entry      | Eleventh entry  | Twelfth entry   |
-| Thirteenth entry | Fourteenth entry | Fifteenth entry | Sixteenth entry |
-
-## Code
-
-Source code can be included by fencing the code with three backticks. Syntax highlighting works automatically when specifying the language after the backticks.
-
-````
-```javascript
-function foo () {
-    return "bar";
-}
-```
-````
-
-This would be rendered as:
-
-```javascript
-function foo () {
-    return "bar";
-}
-```
-
-## Lists
-
-### Unordered
-
-* First item
-* Second item
-* Third item
-    * First nested item
-    * Second nested item
-
-### Ordered
-
-1. First item
-2. Second item
-3. Third item
-    1. First nested item
-    2. Second nested item
